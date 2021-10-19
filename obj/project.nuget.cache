@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NtsG/O78ciKl+MJLH13jhNgRVf2voJTZMUKJzUb/sDYmCzdHXzmdiWwjpIhtb9Osc0UtxnZ41IGriwC7V+RZXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nithya\\source\\repos\\WebAPIHandson\\WebApi-HandsOn2\\WebApi-HandsOn2\\WebApi-HandsOn2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nithya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nithya\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nithya\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.1\\swashbuckle.aspnetcore.6.2.1.nupkg.sha512",
+    "C:\\Users\\Nithya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",
+    "C:\\Users\\Nithya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.1\\swashbuckle.aspnetcore.swaggergen.6.2.1.nupkg.sha512",
+    "C:\\Users\\Nithya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.1\\swashbuckle.aspnetcore.swaggerui.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,87 @@
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\appsettings.Development.json
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\appsettings.json
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.exe
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.deps.json
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.runtimeconfig.json
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.runtimeconfig.dev.json
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.dll
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\ref\WebApi-HandsOn2.dll
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.pdb
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.csproj.AssemblyReference.cache
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.GeneratedMSBuildEditorConfig.editorconfig
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.AssemblyInfoInputs.cache
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.AssemblyInfo.cs
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.csproj.CoreCompileInputs.cache
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.MvcApplicationPartsAssemblyInfo.cs
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.MvcApplicationPartsAssemblyInfo.cache
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\staticwebassets\WebApi-HandsOn2.StaticWebAssets.Manifest.cache
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\staticwebassets\WebApi-HandsOn2.StaticWebAssets.xml
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\scopedcss\bundle\WebApi-HandsOn2.styles.css
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.RazorTargetAssemblyInfo.cache
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.csproj.CopyComplete
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.dll
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\ref\WebApi-HandsOn2.dll
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.pdb
+E:\0 Cognizant Hands-Ons\dotNet\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.genruntimeconfig.cache
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\appsettings.json
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.exe
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.deps.json
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.runtimeconfig.json
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.runtimeconfig.dev.json
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.dll
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\ref\WebApi-HandsOn2.dll
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.pdb
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.csproj.AssemblyReference.cache
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.AssemblyInfoInputs.cache
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.AssemblyInfo.cs
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.csproj.CoreCompileInputs.cache
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\staticwebassets\WebApi-HandsOn2.StaticWebAssets.Manifest.cache
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\staticwebassets\WebApi-HandsOn2.StaticWebAssets.xml
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\scopedcss\bundle\WebApi-HandsOn2.styles.css
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.RazorTargetAssemblyInfo.cache
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.csproj.CopyComplete
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.dll
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\ref\WebApi-HandsOn2.dll
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.pdb
+C:\Users\hishore\source\repos\WebApi\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.genruntimeconfig.cache
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\appsettings.json
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.exe
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.deps.json
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.runtimeconfig.json
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.runtimeconfig.dev.json
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.dll
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\ref\WebApi-HandsOn2.dll
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\WebApi-HandsOn2.pdb
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.csproj.AssemblyReference.cache
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.AssemblyInfoInputs.cache
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.AssemblyInfo.cs
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.csproj.CoreCompileInputs.cache
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\staticwebassets\WebApi-HandsOn2.StaticWebAssets.Manifest.cache
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\staticwebassets\WebApi-HandsOn2.StaticWebAssets.xml
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\scopedcss\bundle\WebApi-HandsOn2.styles.css
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.RazorTargetAssemblyInfo.cache
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.csproj.CopyComplete
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.dll
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\ref\WebApi-HandsOn2.dll
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.pdb
+C:\Users\Nithya\source\repos\WebAPIHandson\WebApi-HandsOn2\WebApi-HandsOn2\obj\Debug\net5.0\WebApi-HandsOn2.genruntimeconfig.cache
